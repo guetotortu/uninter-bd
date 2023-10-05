@@ -14,20 +14,20 @@
         },
         {
             "id" : "3",
-            "title": "Traje fino",
-            "imgSrc": "https://www.infomoney.com.br/wp-content/uploads/2023/07/hm-brazil.jpeg",
-            "description": "O que tem de melhor e maior qualidade em toda região."    
+            "title": "Pão fofo da Neusa",
+            "imgSrc": "https://i.imgur.com/PGsqJwo.jpeg",
+            "description": "Banca de doces e assados da Neusa."    
         },
         {
             "id" : "4",
-            "title": "Maravilhas pra casa",
-            "imgSrc": "https://skdesu.com/wp-content/uploads/2015/05/hyakuen-loja.jpg",
-            "description": "O R$ 1,99 mas popular da cidade, temos todo tipo de utilidade que você pode precisar!"    
+            "title": "Restaurante maravilhas orientais",
+            "imgSrc": "https://i.imgur.com/NnYGHOh.png",
+            "description": "Melhor restaurante da cidade, com execelentes prato orientais."    
         },
         {
             "id" : "5",
             "title": "B-Burguer",
-            "imgSrc": "https://foto2.sluurpy.com/locali/br/1282847/59260818.jpg",
+            "imgSrc": "https://i.imgur.com/WwTKgH5.jpeg",
             "description": "Melhores lanches que você pode achar! Um deleite a cada mordida!"    
         },
         {
@@ -41,6 +41,12 @@
             "title": "Hard Rock!",
             "imgSrc": "https://portalsabores.com.br/wp-content/uploads/2019/02/www.portalsabores.com.br-loja-do-hard-rock-cafe-fortaleza-traz-produtos-inspirados-em-pontos-turisticos-locais-hrc-fortaleza-r00-img-rockshop-01-1.jpg",
             "description": "A cafeteria mais pesado que você já viu! O café mais pesado e mais sofisticado que você pode imaginar!"    
+        },
+        {
+            "id" : "8",
+            "title": "Plantas e geléias da Clara",
+            "imgSrc": "https://i.imgur.com/9JnVIda.jpeg",
+            "description": "Encontre deliciosas geléias 100% naturais e cheias de nutrientes para você usar. Também tenho a plantinhas mais lindas para decorar sua casa."    
         }
     ]
 }
